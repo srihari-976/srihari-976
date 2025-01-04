@@ -8,7 +8,7 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" />
 👨‍💻 Aspiring AI Engineer with a focus on Artificial Intelligence and Machine Learning.<br>🎓 B.Tech student at Presidency University, Bangalore, specializing in Computer Science.<br>🚀 Developed and optimized innovative projects including network monitoring tools, AI-driven chatbots, and predictive models.<br>💼 Internship experience in various roles, contributing to face recognition systems, machine learning models, and cybersecurity solutions.<br>💻 Proficient in Python, Java, C#, TensorFlow, PyTorch, and web technologies like React, Flask.<br>🏆 Actively participate in hackathons and coding competitions, showcasing problem-solving and teamwork skills.<br>📚 Passionate about continuous learning and collaborating on impactful projects.<br>🔗 Explore my repositories for a deeper look into the projects I've worked on!<br><br>
 
-
+---
 ## 🛠️ Tech Arsenal
 
 ### Frontend Development
@@ -73,7 +73,7 @@
  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
+---
 ## 🏆 Featured Achievements
 
 <div align="center">
@@ -93,7 +93,7 @@
   </table>
 </div>
 
-
+---
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srihari-976&theme=dark" alt="GitHub Streak"/>
@@ -116,12 +116,15 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+---
 ### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/srihari14) 
 
+---
 ## 🤝 Connect With Me
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://main.d1m2sakangd7sz.amplifyapp.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srihari.rock.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srihari-r-614714252) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sriharirramesh976) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sriharirramesh976) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/SRIHARI-RAMESH) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Accomplished-Plum216/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22264427/srihari-r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SRIHARIRAMESH4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@code_with_hari)
 
