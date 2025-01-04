@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=anshc022&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 
 <h1 align="center">
