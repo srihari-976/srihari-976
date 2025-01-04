@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Srihari+R;AI+Engineer;Open+Source+Contributor;Tech+Enthusiast;Machine+Learning+Model+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Srihari+R;AI+Engineer;Open+Source+Contributor;Tech+Enthusiast;ML+Model+Builder" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -9,7 +9,7 @@
 👨‍💻 Aspiring AI Engineer with a focus on Artificial Intelligence and Machine Learning.<br>🎓 B.Tech student at Presidency University, Bangalore, specializing in Computer Science.<br>🚀 Developed and optimized innovative projects including network monitoring tools, AI-driven chatbots, and predictive models.<br>💼 Internship experience in various roles, contributing to face recognition systems, machine learning models, and cybersecurity solutions.<br>💻 Proficient in Python, Java, C#, TensorFlow, PyTorch, and web technologies like React, Flask.<br>🏆 Actively participate in hackathons and coding competitions, showcasing problem-solving and teamwork skills.<br>📚 Passionate about continuous learning and collaborating on impactful projects.<br>🔗 Explore my repositories for a deeper look into the projects I've worked on!<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://main.d1m2sakangd7sz.amplifyapp.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srihari.rock.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srihari-r-614714252) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sriharirramesh976) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sriharirramesh976) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/SRIHARI-RAMESH) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Accomplished-Plum216/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22264427/srihari-r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SRIHARIRAMESH4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@code_with_hari)
 
 
