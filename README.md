@@ -1,13 +1,12 @@
 # 💫 About Me:
 
-<br><br><img align="right" width="300" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" /><br><br>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Srihari R;AI+Engineer;Open+Source+Contributor;Tech+Enthusiast;MAchine+Learning+Model+Builder" alt="Typing SVG" />
   </a>
 </h1>
 
+<br><br><img align="right" width="300" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" /><br><br>
 👨‍💻 Aspiring AI Engineer with a focus on Artificial Intelligence and Machine Learning.<br>🎓 B.Tech student at Presidency University, Bangalore, specializing in Computer Science.<br>🚀 Developed and optimized innovative projects including network monitoring tools, AI-driven chatbots, and predictive models.<br>💼 Internship experience in various roles, contributing to face recognition systems, machine learning models, and cybersecurity solutions.<br>💻 Proficient in Python, Java, C#, TensorFlow, PyTorch, and web technologies like React, Flask.<br>🏆 Actively participate in hackathons and coding competitions, showcasing problem-solving and teamwork skills.<br>📚 Passionate about continuous learning and collaborating on impactful projects.<br>🔗 Explore my repositories for a deeper look into the projects I've worked on!<br><br>
 
 
